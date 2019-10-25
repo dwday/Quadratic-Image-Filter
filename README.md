@@ -7,16 +7,10 @@ mkoctfile --imfilt_quad_gray.c
 Example Results:
 Note that various results can be obtained according to training images, test images and training parameters such as population size, number of iterations and other parameters of optimization algorithm.
 
-Reference image
-![alt text](/image/test_image1.png)
 
-Noisy Image
+![alt text](/test/results1.png)
 
-
-Quadratic Image Filter
-
-
-![alt text](/image/4.2.03.tiff)
+![alt text](/test/results2.png)
 
 
 
