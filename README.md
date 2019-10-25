@@ -14,7 +14,7 @@ Note that various results can be obtained according to training images, test ima
 
 
 
-This code is a part of below works. Please cite below works if you find it useful.
+This code is a part of below studies. Please cite them if you find the code useful for your studies.
 
 @article{uzun2018accelerated,
   title={An Accelerated Method for Determining the Weights of Quadratic Image Filters},
