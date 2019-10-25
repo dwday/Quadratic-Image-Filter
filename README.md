@@ -8,9 +8,9 @@ Example Results:
 Note that various results can be obtained according to training images, test images and training parameters such as population size, number of iterations and other parameters of optimization algorithm.
 
 
-![alt text](/test/results1.png)
+![alt text](/test/results1.jpg)
 
-![alt text](/test/results2.png)
+![alt text](/test/results2.jpg)
 
 
 
