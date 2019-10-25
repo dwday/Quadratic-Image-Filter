@@ -3,6 +3,15 @@ Quadratic image filter is a sub class of Volterra filters which is truncated to 
 
 mkoctfile --imfilt_quad_gray.c
 
+
+Example Results:
+
+![alt text](/image/test_image1.png)
+
+
+![alt text](/image/4.2.03.tiff)
+
+
 This code is a part of below works. Please cite below works if you find it useful.
 
 @article{uzun2018accelerated,
