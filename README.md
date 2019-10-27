@@ -27,6 +27,9 @@ This code is a part of below studies. Please cite them if you find the code usef
 }
 
 
+https://ieeexplore.ieee.org/document/8361424
+
+
 @article{uzun2019accelerated,
   title={Accelerated method for the optimization of quadratic image filter},
   author={Uzun, S{\"u}leyman and Akg{\"u}n, Devrim},
@@ -38,6 +41,8 @@ This code is a part of below studies. Please cite them if you find the code usef
   publisher={International Society for Optics and Photonics}
 }
 
+https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-28/issue-3/033036/Accelerated-method-for-the-optimization-of-quadratic-image-filter/10.1117/1.JEI.28.3.033036.short?SSO=1
+
 
 @inproceedings{uzun2018literature,
   title={A Literature Review on Quadratic Image Filters},
@@ -47,3 +52,8 @@ This code is a part of below studies. Please cite them if you find the code usef
   year={2018},
   organization={IEEE}
 }
+
+https://ieeexplore.ieee.org/document/8567038
+
+
+
