@@ -1,5 +1,5 @@
 # Quadratic-Image-Filter
-Quadratic image filter is a sub class of Volterra filters which is truncated to secon degree. This repository provides GNU Octave files for determining weights of quadratic image filter using a training image.  The training algorithm used here is Differential Evolution. In order to run the files on GNU Octave, optim and image processing packages are needed to be installed. Also, imfilt_quad_gray.c file needs to be compiled to obtain mex file. After running below command you may need to restart Octave.
+Quadratic image filter is a subclass of Volterra filters which is truncated up to second degree terms. This repository provides GNU Octave files for determining the weights of quadratic image filter using optimization approach.  The training algorithm used here is Differential Evolution. A syntetic image is used for training. In order to run the files on GNU Octave, optim and image processing packages are needed to be installed. Also, imfilt_quad_gray.c file needs to be compiled to obtain mex file. After running below command you may need to restart Octave.
 
 mkoctfile --imfilt_quad_gray.c
 
